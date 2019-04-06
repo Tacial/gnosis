@@ -1,1 +1,1 @@
-# gnosis
+# index.php
