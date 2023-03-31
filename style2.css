@@ -1,9 +1,11 @@
 body { font: .8em "Lucida Sans", "Trebuchet MS", Verdana, Arial, Sans-Serif; }
 
 p { font-family: Verdana, Sans-Serif; font-size: 15px; color: #00F; }
+
 img { border: 1px; width: 350px; height: 400px: }
 
 section { display: block; weight: 500px; float: left; }
+
 aside { display: block; weight: 300px; float: right; align: center; }
 
 footer#rodape { clear: both; padding: 30px; }
